@@ -75,20 +75,19 @@ img {
 }
 
 .contactbutton {
-  color: black;
-  background-color: rgb(245, 245, 245);
+  color: white;
+  background-color: rgb(0, 0, 0);
   padding: 8px;
-  gap: 20px;
   border-radius: 8px;
   text-transform: lowercase;
 }
 .skillsbutton {
-  color: black;
+  color: white;
+  background-color: rgb(0, 0, 0);
   font-size: 1.1rem;
   line-height: 1.5rem;
   margin-left: -20px;
   border-radius: 8px;
-  padding-right: 10px;
   text-transform: lowercase;
 }
 .aboutme {
@@ -114,7 +113,7 @@ img {
   .contactmenu {
     display: flex;
     justify-content: flex-start;
-    gap: 20px;
+    gap: 40px;
   }
 }
 footer {
