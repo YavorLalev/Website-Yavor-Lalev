@@ -75,15 +75,14 @@ img {
 }
 
 .contactbutton {
-  color: white;
-  background-color: rgb(0, 0, 0);
+  color: black;
+  background-color: rgb(249, 249, 249);
   padding: 8px;
   border-radius: 8px;
   text-transform: lowercase;
 }
 .skillsbutton {
-  color: white;
-  background-color: rgb(0, 0, 0);
+  color: black;
   font-size: 1.1rem;
   line-height: 1.5rem;
   margin-left: -20px;
