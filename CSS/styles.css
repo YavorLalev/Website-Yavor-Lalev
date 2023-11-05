@@ -45,6 +45,9 @@ main {
 img {
   max-width: 30%;
 }
+.img1 {
+  max-width: 66%;
+}
 
 .header {
   background-color: rgb(245, 245, 245);
@@ -62,10 +65,10 @@ img {
   font-size: 1.5rem;
   color: black;
   display: flex;
-  justify-content: end;
+  justify-content: flex-start;
   position: absolute;
   top: 15px;
-  right: 10px;
+  right: 20px;
   gap: 30px;
 }
 
